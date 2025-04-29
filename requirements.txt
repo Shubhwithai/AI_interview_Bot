@@ -1,4 +1,4 @@
-streamlit
-vapi_python
-pyaudio
-python-dotenv
+streamlit==1.31.0
+vapi_python==0.1.1
+python-dotenv==1.0.0
+pyaudio==0.2.13; platform_system != "Linux"
